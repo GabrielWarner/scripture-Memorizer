@@ -1,0 +1,14 @@
+/Users/gabriel/Documents/code/scriptureMemorizer/bin/Debug/net8.0/scriptureMemorizer
+/Users/gabriel/Documents/code/scriptureMemorizer/bin/Debug/net8.0/scriptureMemorizer.deps.json
+/Users/gabriel/Documents/code/scriptureMemorizer/bin/Debug/net8.0/scriptureMemorizer.runtimeconfig.json
+/Users/gabriel/Documents/code/scriptureMemorizer/bin/Debug/net8.0/scriptureMemorizer.dll
+/Users/gabriel/Documents/code/scriptureMemorizer/bin/Debug/net8.0/scriptureMemorizer.pdb
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/scriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/scriptureMemorizer.AssemblyInfoInputs.cache
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/scriptureMemorizer.AssemblyInfo.cs
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/scriptureMemorizer.csproj.CoreCompileInputs.cache
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/scriptureMemorizer.dll
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/refint/scriptureMemorizer.dll
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/scriptureMemorizer.pdb
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/scriptureMemorizer.genruntimeconfig.cache
+/Users/gabriel/Documents/code/scriptureMemorizer/obj/Debug/net8.0/ref/scriptureMemorizer.dll
